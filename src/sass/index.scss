@@ -1,0 +1,14 @@
+body {
+  padding: 50px;
+}
+.container{
+  display:flex;
+  justify-content:space-between;
+  flex-flow: row wrap;
+}
+.container div{
+  margin: 20px 20px;
+}
+.bg-white button{
+  margin: 10px 10px;
+}
